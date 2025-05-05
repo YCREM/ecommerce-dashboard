@@ -26,5 +26,4 @@ This project explores sales data to uncover insights like top-performing regions
 - `dashboard.png`
 
 ## 🧠 Author
-- [Your Name](https://www.linkedin.com/in/yourprofile)
-- [Medium Article](https://medium.com/@yourusername)
+Me
